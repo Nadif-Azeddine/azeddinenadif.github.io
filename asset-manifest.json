@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca6e5954.css",
+    "main.js": "/static/js/main.f45fa414.js",
+    "static/media/circuit.png": "/static/media/circuit.d5cd8eeca1636289537f.png",
+    "static/media/shoopy.png": "/static/media/shoopy.376734dd8f3c38c69b8d.png",
+    "static/media/cont.png": "/static/media/cont.6d920cfa24460888cf6f.png",
+    "static/media/webdev.png": "/static/media/webdev.dd56019168f1493798fb.png",
+    "static/media/classroma.png": "/static/media/classroma.06338c4108dc748bce04.png",
+    "static/media/workot.png": "/static/media/workot.5491668b2338687a678a.png",
+    "static/media/url.png": "/static/media/url.a5e250630ead8f0add68.png",
+    "static/media/logo_light.png": "/static/media/logo_light.3c24d63776e579411d9d.png",
+    "static/media/na.png": "/static/media/na.87914e382998664c28f1.png",
+    "static/media/graph-paper.svg": "/static/media/graph-paper.4f1b8286f85d37a62b5e.svg",
+    "index.html": "/index.html",
+    "static/media/github.svg": "/static/media/github.fdc2ca5d8b8b70cf38cb5f710ab74810.svg",
+    "static/media/bars.svg": "/static/media/bars.4f8c66981a38026f2e7724c3134ec422.svg",
+    "main.ca6e5954.css.map": "/static/css/main.ca6e5954.css.map",
+    "main.f45fa414.js.map": "/static/js/main.f45fa414.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca6e5954.css",
+    "static/js/main.f45fa414.js"
+  ]
+}
